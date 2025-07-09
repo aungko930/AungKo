@@ -7316,7 +7316,7 @@ const PlusUIConfig = () => ({});
         <b:widget-setting name='sorting'>NONE</b:widget-setting>
         <b:widget-setting name='link-1'>plus-ui.firebaseapp.com</b:widget-setting>
         <b:widget-setting name='link-2'>https://plus-ui-default-rtdb.firebaseio.com</b:widget-setting>
-        <b:widget-setting name='link-0'>AIzaSyCm0tMi2iEJGYyx1Dcegk83A4YeK-E89gw</b:widget-setting>
+        <b:widget-setting name='link-0'>None</b:widget-setting>
         <b:widget-setting name='link-10'>teckyaaryan</b:widget-setting>
       </b:widget-settings>
       <b:includable id='main' var='this'><script id='json:firebaseconfig' type='application/json'><b:include data='{ links: data:links, excludeValues: [&quot;#&quot;, &quot;https://&quot;] }' name='LinkList.json'/></script></b:includable>
